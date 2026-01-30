@@ -10,4 +10,4 @@ O aplicativo da PetShop **CuidaPet** foi desenvolvido utilizando **Java** com ba
 
 | Tela Splash | Tela Tipo de Usuário | Tela de Início |
 | :---: | :---: | :---: |
-| ![Tela de Início](imagens/printTelaInicial.png) | ![Tela Tp Usuario](imagens/printTelaTpUsuario.png) | ![Tela Tp Usuario](imagens/printTelaLogin.png) |
+| ![Tela de Início]([imagens/printTelaInicial.png](https://github.com/user-attachments/assets/1a51f923-9ac8-4100-8ab0-a9da7d28ebca)) | ![Tela Tp Usuario]([imagens/printTelaTpUsuario.png](https://github.com/user-attachments/assets/390a2da2-6d9b-4cc7-9e8f-4ceebb87dfaf)) | ![Tela Tp Usuario](imagens/printTelaLogin.png) |
